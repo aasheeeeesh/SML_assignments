@@ -1,0 +1,24 @@
+
+--- Training Single Decision Tree (3 Terminal Nodes) ---
+Overall Classification Accuracy (Single Tree): 80.90%
+Class-wise Accuracy:
+  Class 0: 99.08%
+  Class 1: 90.31%
+  Class 2: 53.29%
+
+--- Bagging and Out-of-Bag (OOB) Error ---
+Average OOB Error across 5 Bagged Trees: 0.1964
+Overall Classification Accuracy (Bagging): 80.97%
+Class-wise Accuracy (Bagging):
+  Class 0: 99.08%
+  Class 1: 90.40%
+  Class 2: 53.39%
+
+--- Random Forest ---
+Optimal Value of k: 3 (Justification: sqrt(p) approx 3)
+Average OOB Error across 5 Random Forest Trees: 0.4616
+Overall Classification Accuracy (Random Forest): 67.24%
+Class-wise Accuracy (Random Forest):
+  Class 0: 61.63%
+  Class 1: 78.85%
+  Class 2: 59.79%

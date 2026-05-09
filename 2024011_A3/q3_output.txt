@@ -1,0 +1,8 @@
+
+--- Training Single Decision Stump ---
+Test Set MSE (Single Stump): 0.3629
+Stump chose feature index 2 with threshold 1.4508
+
+--- Bagging on Random Samples ---
+Average OOB Error (MSE) across 5 Bagged Stumps: 0.3447
+Test Set MSE (Bagging): 0.3588

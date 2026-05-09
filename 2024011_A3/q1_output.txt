@@ -1,0 +1,6 @@
+Train set: (18623, 10), Test set: (3147, 10)
+Best lambda for Ridge based on Test MSE: 100.0
+
+--- Final Classification Accuracies (p=10) ---
+Ridge Regression Accuracy (lambda=100.0): 94.76%
+Lasso Regression Accuracy (lambda=0.0001): 94.76%
